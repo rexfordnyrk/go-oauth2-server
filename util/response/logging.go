@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	thelog "github.com/RichardKnop/go-oauth2-server/log"
+	thelog "github.com/rexfordnyrk/go-oauth2-server/log"
 	"github.com/urfave/negroni"
 )
 

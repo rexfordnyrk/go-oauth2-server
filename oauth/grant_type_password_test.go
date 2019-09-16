@@ -5,11 +5,11 @@ import (
 	"net/http/httptest"
 	"net/url"
 
-	"github.com/RichardKnop/go-oauth2-server/models"
-	"github.com/RichardKnop/go-oauth2-server/oauth"
-	"github.com/RichardKnop/go-oauth2-server/oauth/roles"
-	"github.com/RichardKnop/go-oauth2-server/oauth/tokentypes"
-	"github.com/RichardKnop/go-oauth2-server/test-util"
+	"github.com/rexfordnyrk/go-oauth2-server/models"
+	"github.com/rexfordnyrk/go-oauth2-server/oauth"
+	"github.com/rexfordnyrk/go-oauth2-server/oauth/roles"
+	"github.com/rexfordnyrk/go-oauth2-server/oauth/tokentypes"
+	"github.com/rexfordnyrk/go-oauth2-server/test-util"
 	"github.com/stretchr/testify/assert"
 )
 

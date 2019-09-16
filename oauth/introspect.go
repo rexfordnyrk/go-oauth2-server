@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/RichardKnop/go-oauth2-server/models"
-	"github.com/RichardKnop/go-oauth2-server/oauth/tokentypes"
+	"github.com/rexfordnyrk/go-oauth2-server/models"
+	"github.com/rexfordnyrk/go-oauth2-server/oauth/tokentypes"
 )
 
 const (

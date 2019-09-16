@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/RichardKnop/go-oauth2-server/log"
+	"github.com/rexfordnyrk/go-oauth2-server/log"
 	"github.com/hashicorp/consul/api"
 )
 

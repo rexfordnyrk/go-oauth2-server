@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/RichardKnop/go-oauth2-server/util/response"
+	"github.com/rexfordnyrk/go-oauth2-server/util/response"
 	"github.com/RichardKnop/jsonhal"
 	"github.com/gorilla/mux"
 	"github.com/stretchr/testify/assert"
