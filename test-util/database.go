@@ -94,7 +94,7 @@ func openPostgresDB(dbHost, dbUser, dbName string) (*gorm.DB, error) {
 	// Init a new postgres test database connection
 	db, err := gorm.Open("postgres",
 		fmt.Sprintf(
-			"sslmode=disable host=%s port=5432 user=%s password='' dbname=%s",
+			"sslmode=disable host=%s port=5432 user=%s password='ignis37' dbname=%s",
 			dbHost,
 			dbUser,
 			dbName,

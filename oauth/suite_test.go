@@ -15,8 +15,8 @@ import (
 )
 
 var (
-	testDbUser = "go_oauth2_server"
-	testDbName = "go_oauth2_server_oauth_test"
+	testDbUser = "postgres"
+	testDbName = "go_auth"
 
 	testFixtures = []string{
 		"./oauth/fixtures/scopes.yml",
